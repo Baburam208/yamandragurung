@@ -14,6 +14,7 @@ year bachelor's program and professional practice, I have developed a strong abi
 ## Education
 - Masters in Business Administration, Lincoln University, KFA Business School, Kathmandu, Nepal  
   <span style="float: right;">[2023 - Current]</span>
+  
 - Bachelors in Electrical Engineering, Institute of Engineering, Pashchimanchal Campus, Pokhara  
   <span style="float: right;">[2014 - 2018]</span>
   Project Title: Design of transmission line using MATLAB
