@@ -1,4 +1,4 @@
-## Yamendra Gurung
+# Yamendra Gurung
 **NEC Registered, Electrical Engineer**
 ### Professional Summary
 I am a solution-oriented electrical engineer with a robust understanding of engineering
