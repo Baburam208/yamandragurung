@@ -19,6 +19,15 @@ year bachelor's program and professional practice, I have developed a strong abi
   <span style="float: right;">[2014 - 2018]</span>
   Project Title: Design of transmission line using MATLAB
 
+## Education
+
+| Degree | Institution | Year |
+|---------|-------------------------------------------|------------|
+| Masters in Business Administration | Lincoln University, KFA Business School, Kathmandu | 2023 - Current |
+| Bachelors in Electrical Engineering | Institute of Engineering, Pashchimanchal Campus, Pokhara | 2014 - 2018 |
+| **Project Title:** | *Design of transmission line using MATLAB* |  |
+
+
 ## Work Experience
 **Department Head, Electrical division, Smart Solar Nepal Corporation, Baneshwor, Kathmandu**
 <span style="float: right;">[2021 - Current]</span>
