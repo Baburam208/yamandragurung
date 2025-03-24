@@ -1,4 +1,5 @@
-## Professional Summary
+## Yamendra Gurung
+### Professional Summary
 I am a solution-oriented electrical engineer with a robust understanding of engineering
  principles and extensive experience in managing technical operations. Through my four
 year bachelor's program and professional practice, I have developed a strong ability to
