@@ -22,8 +22,7 @@ more resilient future.
 - Masters of science in Climate Change and Development Engineering, Tribhuvan University, IOE, Pulchowk Campus
   <span style="float: right;">[2025 - Current]</span>
 
-- Masters in Business Administration, Lincoln University, KFA Business School, Kathmandu, Nepal  
-  <span style="float: right;">[2023 - Current]</span>
+- Masters in Business Administration, Lincoln University, KFA Business School, Kathmandu, Nepal  <span style="float: right;">[2023 - Current]</span>
   
 - Bachelors in Electrical Engineering, Institute of Engineering, Pashchimanchal Campus, Pokhara  
   <span style="float: right;">[2014 - 2018]</span>
