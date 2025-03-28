@@ -1,5 +1,4 @@
-# Yamendra Gurung
-**NEC Registered, Electrical Engineer**
+## Yamendra Gurung
 ### Professional Summary
 I am a solution-oriented electrical engineer with a robust understanding of engineering
  principles and extensive experience in managing technical operations. Through my four
@@ -10,14 +9,17 @@ year bachelor's program and professional practice, I have developed a strong abi
  complement my technical expertise. I am passionate about the hospitality industry and
  eager to contribute to the Engineering Department's efficient operation. I aim to support all departments by providing reliable services, maintaining equipment, and ensuring the upkeep of building facilities in line with brand standards. With a focus on innovation, collaboration, and operational excellence, I am eager to bring innovative solutions, teamwork, and a positive, optimistic approach to the dynamic and customer-focused world of hospitality.
 
+
 ## Education
+- Masters in Business Administration, Lincoln University, KFA Business School, Kathmandu, Nepal  
+  <span style="float: right;">[2023 - Current]</span>
+  
+- Bachelors in Electrical Engineering, Institute of Engineering, Pashchimanchal Campus, Pokhara  
+  <span style="float: right;">[2014 - 2018]</span>
+  Project Title: Design of transmission line using MATLAB
 
-| Degree | Institution | Year |
-|---------|-------------------------------------------|------------|
-| Masters in Business Administration | Lincoln University, KFA Business School, Kathmandu | 2023 - Current |
-| Bachelors in Electrical Engineering | Institute of Engineering, Pashchimanchal Campus, Pokhara | 2014 - 2018 |
-| **Project Title:** | *Design of transmission line using MATLAB* |  |
-
+## Training
+- MSc-Masters of science in Climate Change and Development Engineering, Tribhuvan University, IOE, Pulchowk Campus
 
 ## Work Experience
 **Department Head, Electrical division, Smart Solar Nepal Corporation, Baneshwor, Kathmandu**
@@ -97,7 +99,97 @@ Him Electronics Pvt. Ltd is a member of Golchha Group which is one of the oldest
 - Ensuring the association's goals align with industry needs, fostering collaboration with
  government and private sectors to advance engineering and architecture standards in
  Nepal.
+ 
+**Member secretary, NEA New and Renewable Energy Committee, Nepal Engineers' Association Building, Pulchowk**
+<span style="float: right;">[February 2025 - Current]</span>
 
+A. Administrative & Secretariat Functions:
+- Organize and schedule committee meetings, prepare agendas, and maintain records of
+discussions and resolutions.
+- Ensure timely distribution of meeting minutes, reports, and official documents to
+committee members.
+- Maintain an updated database of committee members, stakeholders, and relevant
+contacts.
+- Coordinate with NEA leadership and other departments to facilitate smooth
+communication and decision-making.
+
+B. Policy and Strategy Development Support:
+- Assist in drafting policies, frameworks, and guidelines for new and renewable energy
+development.
+- Conduct research and compile data on renewable energy trends, best practices, and
+regulatory updates.
+- Support the formulation of recommendations for integrating renewable energy into
+Nepal’s power sector.
+
+C. Project Coordination & Implementation:
+- Assist in monitoring and evaluating ongoing renewable energy projects under the
+committee’s purview.
+- Support feasibility studies, policy briefs, and reports related to renewable energy
+initiatives.
+- Facilitate coordination among government bodies, private sector entities, and
+development partners.
+
+D. Stakeholder Engagement & Advocacy:
+- Act as the focal point for communication between the committee and external
+stakeholders, including government agencies, industry experts, and donor organizations.
+- Organize workshops, seminars, and stakeholder consultations to promote awareness of
+renewable energy programs.
+- Support advocacy efforts to influence energy policies in favor of sustainable and
+renewable energy development.
+
+E. Compliance & Reporting:
+- Ensure all committee decisions and actions align with national energy policies and
+regulatory frameworks.
+- Prepare periodic reports on the progress and impact of committee activities for
+submission to NEA leadership.
+- Maintain transparency and accountability in all secretarial functions.
+
+**NEA Climate change and Environment committee, Nepal Engineers' Association Building, Pulchowk**
+<span style="float: right;">[February 2025 - Current]</span>
+
+A. Policy Development & Advocacy
+- Formulate recommendations for climate-responsive engineering policies and
+environmental regulations.
+- Advocate for clean energy solutions and sustainable infrastructure development.
+- Collaborate with government agencies, policymakers, and industry leaders to align
+Nepal’s energy sector with global climate commitments
+
+B. Research & Innovation
+- Conduct studies on climate risks, carbon emissions, and environmental impacts related
+to the energy sector.
+- Support innovation in green technologies, circular economy approaches, and naturebased solutions.
+- Publish reports, white papers, and technical guidelines on climate-resilient engineering
+practices.
+
+C. Project Development & Implementation
+- Identify and support climate-friendly projects, including renewable energy, energy
+efficiency, and carbon reduction initiatives.
+- Facilitate pilot projects on sustainable urban planning, waste management, and
+environmental conservation.
+- Develop partnerships with academic institutions, research centers, and international
+organizations for collaborative projects.
+
+D. Capacity Building & Awareness
+- Organize training, workshops, and seminars for engineers on climate change mitigation,
+adaptation, and sustainability.
+- Promote knowledge-sharing platforms on emerging trends in green engineering and
+environmental management.
+- Engage with educational institutions to incorporate climate and environmental studies
+into engineering curricula.
+
+E. Compliance & Environmental Monitoring
+- Advocate for adherence to environmental regulations and standards in engineering
+projects.
+- Support environmental impact assessments (EIAs) and strategic environmental planning.
+- Monitor and evaluate the implementation of sustainability measures within NEAaffiliated projects.
+
+F. Stakeholder Engagement & Partnerships
+- Establish collaborations with government agencies, development partners, NGOs, and
+private sector entities.
+- Represent NEA in national and international forums on climate change and
+environmental sustainability.
+- Foster dialogue between engineers, environmentalists, and policymakers to align
+technical solutions with environmental goals.
 
 ## Projects
 ### Involved Projects
