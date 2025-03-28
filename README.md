@@ -1,25 +1,33 @@
 ## Yamendra Gurung
 ### Professional Summary
-I am a solution-oriented electrical engineer with a robust understanding of engineering
- principles and extensive experience in managing technical operations. Through my four
-year bachelor's program and professional practice, I have developed a strong ability to
- optimize processes, ensuring efficiency and seamless integration across departments. My hands-on approach, combined with adaptability under pressure, has consistently led to successfully resolving complex challenges.
+Solution-driven Electrical Engineer with expertise in renewable energy, project
+management, and technical leadership. Holding a Bachelor’s degree in Electrical
+Engineering from Tribhuvan University, Institute of Engineering, Paschimanchal Campus
+(WRC), and an MBA from Lincoln University, KFA Business School, I bring a unique blend
+of technical proficiency and strategic business insight. Currently pursuing an MSc in
+Engineering, Climate Change, and Development at Tribhuvan University, IOE, Pulchowk
+Campus, I am dedicated to advancing sustainable and innovative engineering solutions.
  
- Currently pursuing an MBA, I am expanding my leadership and management skills to
- complement my technical expertise. I am passionate about the hospitality industry and
- eager to contribute to the Engineering Department's efficient operation. I aim to support all departments by providing reliable services, maintaining equipment, and ensuring the upkeep of building facilities in line with brand standards. With a focus on innovation, collaboration, and operational excellence, I am eager to bring innovative solutions, teamwork, and a positive, optimistic approach to the dynamic and customer-focused world of hospitality.
+I began my professional journey at Him Electronics Pvt. Ltd., a subsidiary of the esteemed
+Golchha Group, where I gained extensive experience in electrical systems, engineering
+operations, and technology integration. Currently, I serve as the Department Head of the
+Electrical Department at Smart Solar Nepal Corporation, leading the development and
+execution of solar energy solutions while providing technical expertise to Smart Solar
+Corporation, Japan. My career is defined by a commitment to excellence, innovation, and
+sustainability, driving transformative advancements in clean energy technologies for a
+more resilient future.
 
 
 ## Education
+- MSc-Masters of science in Climate Change and Development Engineering, Tribhuvan University, IOE, Pulchowk Campus
+- <span style="float: right;">[2025 - Current]</span>
+
 - Masters in Business Administration, Lincoln University, KFA Business School, Kathmandu, Nepal  
   <span style="float: right;">[2023 - Current]</span>
   
 - Bachelors in Electrical Engineering, Institute of Engineering, Pashchimanchal Campus, Pokhara  
   <span style="float: right;">[2014 - 2018]</span>
   Project Title: Design of transmission line using MATLAB
-
-## Training
-- MSc-Masters of science in Climate Change and Development Engineering, Tribhuvan University, IOE, Pulchowk Campus
 
 ## Work Experience
 **Department Head, Electrical division, Smart Solar Nepal Corporation, Baneshwor, Kathmandu**
