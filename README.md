@@ -19,7 +19,7 @@ more resilient future.
 
 
 ## Education
-- MSc-Masters of science in Climate Change and Development Engineering, Tribhuvan University, IOE, Pulchowk Campus
+- Masters of science in Climate Change and Development Engineering, Tribhuvan University, IOE, Pulchowk Campus
   <span style="float: right;">[2025 - Current]</span>
 
 - Masters in Business Administration, Lincoln University, KFA Business School, Kathmandu, Nepal  
